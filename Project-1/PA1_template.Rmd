@@ -4,7 +4,7 @@ author: "Yueming Sun"
 date: "11/12/2014"
 output: html_document
 keep_md: true
----    
+---   
 ```{r setoptions, tidy=TRUE}
 library(knitr)
 opts_chunk$set(tidy=TRUE)
